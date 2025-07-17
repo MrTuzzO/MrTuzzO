@@ -1,4 +1,4 @@
- <img alt="html5" src="./assets/banner_1.png" />
+
 
 ## 👋 Hi there! I'm Khirul Islam  
 
