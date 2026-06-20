@@ -1,12 +1,15 @@
-
-
-## 👋 Hi there! I'm Khirul Islam  
-
-Hey, I'm a Junior **Software Engineer** who enjoys building backend systems and turning ideas into reliable software. Over the past year, I've had the opportunity to work on products for international clients, where I've contributed to AI integrations, backend development, and solving real engineering problems alongside cross-functional teams.
-
-What I enjoy most is understanding how a product works behind the scenes. Whether it's designing business workflows, building APIs, or improving system performance, I like working on problems that make software more reliable and easier to scale.
-
-I'm currently expanding my knowledge in Artificial Intelligence, distributed systems, and cloud technologies while continuing to grow as a software engineer. I'm always happy to connect with people who enjoy building great products or simply want to talk about technology. 🚀  
+# Khirul Islam
+ 
+**Software Engineer** · Dhaka, Bangladesh  
+Building reliable systems, one endpoint at a time.
+ 
+---
+ 
+I care about **how things work underneath** — API design, database modeling, system performance, and the quiet satisfaction of a well-structured codebase.
+ 
+Currently exploring distributed systems, cloud architecture, and AI integrations.
+ 
+---
 
 
 <h3>When I code, I rely on</h3>
