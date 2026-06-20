@@ -1,13 +1,6 @@
-# Khirul Islam
+Junior software engineer who cares about **how things work underneath** — API design, database modeling, system performance, and the quiet satisfaction of a well-structured codebase.
  
-**Software Engineer** · Dhaka, Bangladesh  
-Building reliable systems, one endpoint at a time.
- 
----
- 
-I care about **how things work underneath** — API design, database modeling, system performance, and the quiet satisfaction of a well-structured codebase.
- 
-Currently exploring distributed systems, cloud architecture, and AI integrations.
+Currently learning distributed systems, system design, and AI/RAG systems.
  
 ---
 
