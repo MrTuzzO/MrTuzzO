@@ -2,8 +2,11 @@
 
 ## 👋 Hi there! I'm Khirul Islam  
 
-I'm a passionate **Software Developer** with a strong focus on **backend development**. I love working with **Python, Django, and REST APIs** to build scalable and efficient applications. I'm always eager to learn new technologies and improve my skills.  
-If you're interested in **tech, coding, or collaboration**, feel free to connect with me. Let's build something amazing together! 🚀  
+Hey, I'm a Junior **Software Engineer** who enjoys building backend systems and turning ideas into reliable software. Over the past year, I've had the opportunity to work on products for international clients, where I've contributed to AI integrations, backend development, and solving real engineering problems alongside cross-functional teams.
+
+What I enjoy most is understanding how a product works behind the scenes. Whether it's designing business workflows, building APIs, or improving system performance, I like working on problems that make software more reliable and easier to scale.
+
+I'm currently expanding my knowledge in Artificial Intelligence, distributed systems, and cloud technologies while continuing to grow as a software engineer. I'm always happy to connect with people who enjoy building great products or simply want to talk about technology. 🚀  
 
 
 <h3>When I code, I rely on</h3>
